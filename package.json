@@ -1,0 +1,26 @@
+{
+  "name": "ninja-chromecast",
+  "version": "0.0.0",
+  "description": "Ninja Blocks Chromcast Driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thatguydan/ninja-chromecast"
+  },
+  "keywords": [
+    "Ninja",
+    "Blocks",
+    "Chromecast"
+  ],
+  "author": "Daniel Friedman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thatguydan/ninja-chromecast/issues"
+  },
+  "dependencies": {
+    "nodecast": "git://github.com/thatguydan/nodecast"
+  }
+}
